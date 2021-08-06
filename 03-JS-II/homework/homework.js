@@ -85,8 +85,7 @@ function colors(color) {
     case "orange":
     return "This is " + color 
     default: 
-    return "Color not found"
-    break;
+    return "Color not found";
   }
 }
 //||{}
